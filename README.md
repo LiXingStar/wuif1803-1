@@ -1,8 +1,3 @@
-# wuif1803-1
-wuif1803-1
-
-* 打开控制台 （shift + 右键）
-* git clone url
-* 进入文件夹 (cd 文件夹名字  , 重新开) 
-* 修改  提交
+ https://973077273.github.io/PC-yishameier/  
+ 孟维琦
 
