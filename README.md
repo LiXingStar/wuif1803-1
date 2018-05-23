@@ -1,1 +1,1 @@
-https://yangyd1997.github.io/wuif1803/ygzx.html
+https://yangyd1997.github.io/wuif1803/
